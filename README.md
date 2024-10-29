@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the ODSC workshop on LLMOps. This workshop 
 Most of these case studies are from my book: [Quick Start Guide to LLMs](https://github.com/sinanuozdemir/quick-start-guide-to-llms)
 <p align="center">
   <a href="https://github.com/sinanuozdemir/quick-start-guide-to-llms">
-    <img style="max-height:200px;" src="images/qsm2e.jpg" alt="Book">
+    <img style="width:200px;max-height:200px;" src="images/qsm2e.jpg" alt="Book">
   </a>
 </p>
 
